@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\Shape Area Calculator\Shape Area Calculator\bin\Debug\Shape Area Calculator.exe.config
+C:\Users\DELL\source\repos\Shape Area Calculator\Shape Area Calculator\bin\Debug\Shape Area Calculator.exe
+C:\Users\DELL\source\repos\Shape Area Calculator\Shape Area Calculator\bin\Debug\Shape Area Calculator.pdb
+C:\Users\DELL\source\repos\Shape Area Calculator\Shape Area Calculator\obj\Debug\Shape Area Calculator.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Shape Area Calculator\Shape Area Calculator\obj\Debug\Shape Area Calculator.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Shape Area Calculator\Shape Area Calculator\obj\Debug\Shape Area Calculator.exe
+C:\Users\DELL\source\repos\Shape Area Calculator\Shape Area Calculator\obj\Debug\Shape Area Calculator.pdb
